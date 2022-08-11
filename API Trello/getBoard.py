@@ -8,8 +8,8 @@ headers = {
 }
 
 query = {
-   'key': 'cfe4ed1398531251440d27a6bf998413',
-   'token': '0d29b27acf985e03e0d8e8acf1138eb40ab1336db47a744622e3f1456d59c032'
+   'key': '',
+   'token': ''
 }
 
 response = requests.request(
